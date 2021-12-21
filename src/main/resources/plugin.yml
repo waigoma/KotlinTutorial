@@ -1,0 +1,5 @@
+name: KotlinTutorial
+version: '${project.version}'
+main: com.waigoma.kotlintutorial.KotlinTutorialPlugin
+api-version: 1.18
+author: waigoma
